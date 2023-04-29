@@ -2,6 +2,10 @@
 
 This project demonstrates how to build a spam detection model using Naive Bayes. The dataset used in this project is the Spam SMS Collection from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection).
 
+# **Description**
+
+The SMS Spam Collection v.1 (hereafter the corpus) is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam. 
+
 # **Requirements**
 
 To run this project, you will need the following:
