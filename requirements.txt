@@ -1,0 +1,5 @@
+Python 3.x
+Jupyter Notebook
+scikit-learn
+pandas
+nltk
